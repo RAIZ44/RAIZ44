@@ -1,18 +1,18 @@
-# 👋 Hi, I'm Raiz Mohammed
+# Hi, I’m Raiz Mohammed
 
-### 💼 About Me
+## About Me
+I’m a Computer Science major at **Francis Marion University**, minoring in **Mathematics** and **Statistics**, graduating in **May 2026**. I enjoy building systems that solve real-world problems—from field-deployed sensor networks to web platforms and AI evaluation pipelines. Whether it’s working with hardware in remote rainforests or streamlining business workflows, I focus on creating tech that actually matters.
 
-I'm a Computer Science major at **Francis Marion University** with minors in **Mathematics** and **Statistics**, graduating in **May 2026**. I’m passionate about building impactful systems that bridge the gap between software and the real world—from IoT-based environmental monitoring to full-stack web applications and AI training workflows.
-
-- 🧠 Currently interning at **Sonoco**, assisting with business process automation and data analysis
-- 🔬 Paid Research Assistant on the **BEAM Project**, developing wildlife monitoring systems with **Raspberry Pi** and **AudioMoth**
-- 🐾 Led development of a full-stack **Animal Shelter Management System** using **Next.js**, **TypeScript**, **Prisma**, and **PostgreSQL**
-- 🎮 Built a **Space Shooter mini-game** in **C#** using the **.NET framework**
-- 🤖 AI Trainer at **Outlier.ai**, evaluating AI-generated responses for relevance and accuracy
+Here’s what I’ve been up to lately:
+- Interning at **Sonoco**, automating business processes and analyzing production data  
+- Researching on the **BEAM Project**, developing wildlife-monitoring hardware using Raspberry Pi and AudioMoth  
+- Leading a team for an **Animal Shelter Management System** using Next.js, Prisma, and PostgreSQL  
+- Building games for fun, including a C# space shooter with audio and effects  
+- Evaluating AI-generated responses at **Outlier.ai** to help improve model quality  
 
 ---
 
-### 🛠️ Skills & Technologies
+## Skills & Technologies
 
 **Languages:** Python, JavaScript, Java, C++, R, CSS, x86  
 **Frameworks & Tools:** React, Node.js, Next.js, Tailwind, Prisma, Bootstrap, Electron, UiPath  
@@ -20,18 +20,19 @@ I'm a Computer Science major at **Francis Marion University** with minors in **M
 
 ---
 
-### 📌 Featured Projects
+## Highlight Projects
 
-- **BEAM Project** – Wildlife monitoring system using Raspberry Pi and sensor networks  
-- **Animal Shelter DevOps** – End-to-end shelter management web app (Team Lead)  
-- **Space Shooter** – A personal C# mini-game project with music and effects  
+### • BEAM Project  
+Wildlife-monitoring platform with sensor-driven data capture deployed in remote environments.
 
----
+### • Animal Shelter DevOps  
+Full-stack app for animal shelter operations—team lead on backend and project architecture.
 
-### 📫 Connect with Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/raiz-mohammed/)
-- 📧 official.raizmohammed@gmail.com
-- 📍 Based in South Carolina, USA
+### • Space Shooter  
+Arcade-style mini-game in C#, featuring a custom game loop, audio effects, and collision mechanics.
 
 ---
+
+## Let’s Connect
+- **LinkedIn:** https://www.linkedin.com/in/raiz-mohammed/
+- **Email:** official.raizmohammed@gmail.com
