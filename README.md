@@ -32,9 +32,11 @@ Repo: https://github.com/fmu-zwiers-ecuador
 
 ### • Animal Shelter DevOps  
 Full-stack app for animal shelter operations—team lead on backend and project architecture.
+Repo: https://github.com/RAIZ44/animal-shelter-CS340
 
 ### • Space Shooter  
 Arcade-style mini-game in C#, featuring a custom game loop, audio effects, and collision mechanics.
+Repo: https://github.com/RAIZ44/SpaceShooter
 
 ---
 
