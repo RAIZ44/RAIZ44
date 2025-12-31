@@ -22,6 +22,10 @@ Here’s what I’ve been up to lately:
 
 ## Highlight Projects
 
+### • Mini Radar (Raspberry Pi + UDP + PC GUI)
+A “radar sweep” prototype where a **headless Raspberry Pi** moves a servo and reads an **HC-SR04** distance sensor, then **broadcasts angle + distance over UDP** to a **Windows PC** that displays the sweep in a **Pygame GUI**. Includes wiring notes (GPIO18/23/24), level-shifting guidance for the HC-SR04 ECHO pin, and troubleshooting tips.  
+Repo: https://github.com/RAIZ44/Mini-Radar
+
 ### • BEAM Project  
 Wildlife-monitoring platform with sensor-driven data capture deployed in remote environments.
 
