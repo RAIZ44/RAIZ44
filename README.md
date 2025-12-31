@@ -28,6 +28,7 @@ Repo: https://github.com/RAIZ44/Mini-Radar
 
 ### • BEAM Project  
 Wildlife-monitoring platform with sensor-driven data capture deployed in remote environments.
+Repo: https://github.com/fmu-zwiers-ecuador
 
 ### • Animal Shelter DevOps  
 Full-stack app for animal shelter operations—team lead on backend and project architecture.
